@@ -1,0 +1,6 @@
+yfinance
+pandas
+pyarrow
+matplotlib
+numpy
+sqlite3-utils
